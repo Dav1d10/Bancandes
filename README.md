@@ -38,6 +38,16 @@ Before running the project locally, make sure you have the following installed:
 ```bash
 mvn -version
 ```
+- Navigate to the resources directory into the `application.properties` file and assign the following variables 
+```bash
+cd bancandes/resources/application.properties
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+```
+- Create the following tables in your database with this [script](docs/CreacionTablas.sql).
+- Insert data into the tables with this [script](docs/PoblacionTablas.sql) (optional).
 
 ## How to run
 
