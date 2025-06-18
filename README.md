@@ -40,7 +40,7 @@ mvn -version
 ```
 - Navigate to the resources directory into the `application.properties` file and assign the following variables 
 ```bash
-cd bancandes/resources/application.properties
+cd bancandes/src/main/resources/application.properties
 
 spring.datasource.url=
 spring.datasource.username=
