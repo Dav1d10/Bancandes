@@ -56,7 +56,7 @@ Follow these steps to run the application locally:
   ```bash
   git clone https://github.com/Dav1d10/Bancandes.git
   ```
-2. Open a terminal and navigate to the `main project folder`:
+2. Open a terminal and navigate to the `main directory`:
  ```bash
   cd bancandes
   ```
