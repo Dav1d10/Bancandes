@@ -7,8 +7,8 @@ This web application project was developed as part of the **ISIS2034 Sistemas Tr
 ## Project Documentation 
 
 - [UML Diagram](docs/UML_BancAndes)
-- [Tables Creation in the SQL Database](docs/CreacionTablas.sql)
-- [Data Insertion into the Tables](docs/PoblacionTablas.sql)
+- [Database Tables Creation Script](docs/CreacionTablas.sql)
+- [Tables Data Insertion Script](docs/PoblacionTablas.sql)
 
 ## Tech Stack
 
